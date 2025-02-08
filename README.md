@@ -1,4 +1,4 @@
-# cis6930sp24-assignment1
+# Script_Censorer
 
 README for Censoror Script
 
