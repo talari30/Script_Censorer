@@ -1,9 +1,9 @@
 # Script_Censorer
 
-README for Censoror Script
+README for Script Censorer
 
 Overview:-
-The Censoror script is designed to redact sensitive information from text files, including names, dates, phone numbers, and addresses. Utilizing the power of spaCy and regular expressions, it processes files to identify and censor specified types of data, offering customization through command-line arguments. The script also collects and outputs statistics about the redaction process, such as the types and counts of censored terms.
+The Script Censorer is designed to redact sensitive information from text files, including names, dates, phone numbers, and addresses. Utilizing the power of spaCy and regular expressions, it processes files to identify and censor specified types of data, offering customization through command-line arguments. The script also collects and outputs statistics about the redaction process, such as the types and counts of censored terms.
 
 Features:-
 Text Redaction: Automatically redacts names, dates, addresses, and phone numbers from text files.
